@@ -49,9 +49,10 @@ def load_models():
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForCausalLM.from_pretrained(
         model_name, 
-        #device_map="auto",
+        device_map="auto",
         #torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32,
         low_cpu_mem_usage=True
+        oad_in_8bit=True,  # quantisation 8-bit pour CPU
     )
     
     return embedding_model, qdrant, tokenizer, model
