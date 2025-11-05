@@ -1,9 +1,5 @@
 crawl4ai
-transformers
-torch
-accelerate
 streamlit
 sentence-transformers
 qdrant-client
-huggingface_hub
-bitsandbytes
+langchain-google-genai
