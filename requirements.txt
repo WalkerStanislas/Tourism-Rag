@@ -6,3 +6,4 @@ streamlit
 sentence-transformers
 qdrant-client
 huggingface_hub
+bitsandbytes

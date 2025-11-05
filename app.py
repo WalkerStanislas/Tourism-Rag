@@ -2,8 +2,7 @@ from __future__ import annotations
 import streamlit as st
 import asyncio
 import datetime
-
-from src.rag_pipeline import init_db, add_documents, TourismeAgent
+from src.rag_pipeline import load_models, TourismeAgent
 
 
 # I. CONFIGURATION DE L'APPLICATION
@@ -15,24 +14,23 @@ st.set_page_config(
 )
 
 
+
 st.markdown('<div class="title">Assistant Raogo</div>', unsafe_allow_html=True)
 st.caption("Propulsé par Gemma 3 (1B) + Qdrant + SentenceTransformers — 100% open source 💡")
 
 
 # II. INITIALISATION DE L'AGENT ET DES DONNÉES
 
+
+# Charger les secrets depuis Streamlit
+qdrant_url = st.secrets["QDRANT_URL"]
+qdrant_key = st.secrets["QDRANT_KEY"]
+H_TOKEN = st.secrets["H_TOKEN"]
+
 @st.cache_resource
 def load_agent():
-    docs = [
-        {"text": "La Cascade de Banfora est située à environ 12 km de la ville de Banfora, dans la région des Cascades."},
-        {"text": "Le pic de Sindou offre un panorama spectaculaire sur les formations rocheuses du sud-ouest du Burkina Faso."},
-        {"text": "Le lac de Tengréla est connu pour ses hippopotames et son cadre naturel paisible près de Banfora."},
-        {"text": "La mosquée de Bobo-Dioulasso, construite au XIXe siècle, est un symbole de l’architecture soudanaise."},
-        {"text": "Le parc national d’Arly abrite une faune riche incluant éléphants, lions et antilopes, situé à l’est du Burkina Faso."},
-    ]
-    #init_db()
-    #add_documents(docs)
-    return TourismeAgent()
+    embedding_model, qdrant, tokenizer, model = load_models(qdrant_url, qdrant_key, H_TOKEN)
+    return TourismeAgent(qdrant, embedding_model, tokenizer, model)
 
 agent = load_agent()
 
