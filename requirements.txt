@@ -1,6 +1,7 @@
 crawl4ai
-langchain
-langchain-google-genai
+transformers
+torch
+accelerate
 streamlit
 sentence-transformers
 qdrant-client
