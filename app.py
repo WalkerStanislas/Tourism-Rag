@@ -3,7 +3,7 @@ import streamlit as st
 import asyncio
 import datetime
 
-from rag_pipeline import init_db, add_documents, TourismeAgent
+from src.rag_pipeline import init_db, add_documents, TourismeAgent
 
 
 # I. CONFIGURATION DE L'APPLICATION
