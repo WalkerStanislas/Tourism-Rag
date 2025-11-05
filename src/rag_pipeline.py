@@ -51,7 +51,7 @@ def load_models():
         model_name, 
         #device_map="auto",
         #torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32,
-        #low_cpu_mem_usage=True
+        low_cpu_mem_usage=True
     )
     
     return embedding_model, qdrant, tokenizer, model
