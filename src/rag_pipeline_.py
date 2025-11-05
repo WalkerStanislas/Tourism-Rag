@@ -21,6 +21,11 @@ qdrant_url = os.getenv('QDRANT_URL')
 qdrant_key = os.getenv('QDRANT_KEY')
 H_TOKEN = os.getenv('H_TOKEN')
 
+
+qdrant_url = st.secrets.get("QDRANT_URL")
+qdrant_key = st.secrets.get("QDRANT_KEY")
+H_TOKEN = st.secrets.get('H_TOKEN')
+
 COLLECTION_NAME = "tourisme_burkina"
 VECTOR_SIZE = 384
 
