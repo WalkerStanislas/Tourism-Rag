@@ -1,0 +1,7 @@
+crawl4ai
+langchain
+langchain-google-genai
+streamlit
+sentence-transformers
+qdrant-client
+huggingface_hub
