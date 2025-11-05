@@ -14,7 +14,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 
 load_dotenv()
 
-COLLECTION_NAME = "tourisme_burkina"
+COLLECTION_NAME = "bf_tourism"
 VECTOR_SIZE = 384
 
 
@@ -128,8 +128,8 @@ if __name__ == "__main__":
         {"text": "Le lac de Tengréla est connu pour ses hippopotames et son cadre naturel paisible près de Banfora."},
     ]
 
-    init_db(qdrant)
-    add_documents(qdrant, embedding_model, docs)
+    #init_db(qdrant)
+    #add_documents(qdrant, embedding_model, docs)
 
     agent = TourismeAgent(qdrant, embedding_model, llm)
 
