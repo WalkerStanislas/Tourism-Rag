@@ -1,18 +1,16 @@
 from __future__ import annotations
 from dataclasses import dataclass
-from typing import List, Optional
-import os
+from typing import List
 import asyncio
+import os
+from dotenv import load_dotenv
 from sentence_transformers import SentenceTransformer
 from qdrant_client import QdrantClient
 from qdrant_client.models import PointStruct, VectorParams, Distance
-from dotenv import load_dotenv
-from transformers import AutoModelForCausalLM, AutoTokenizer
-from huggingface_hub import login
-import torch
+from langchain_google_genai import ChatGoogleGenerativeAI
 
 
-# ===================== I. CHARGEMENT DES VARIABLES D’ENVIRONNEMENT =====================
+# ===================== I. CONFIGURATION =====================
 
 load_dotenv()
 
@@ -20,29 +18,25 @@ COLLECTION_NAME = "tourisme_burkina"
 VECTOR_SIZE = 384
 
 
-# ===================== II. INITIALISATION DES MODÈLES =====================
-
-def load_models(qdrant_url: str, qdrant_key: str, hf_token: str):
-    """Charger les modèles et initialiser les connexions nécessaires."""
-    # Connexion HuggingFace
-    if hf_token:
-        login(token=hf_token)
-
-    # Embeddings
+def load_models(qdrant_url: str, qdrant_key: str, gemini_api_key: str):
+    """Initialise les composants du pipeline RAG."""
+    # Embedding model
     embedding_model = SentenceTransformer("sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
 
     # Qdrant
     qdrant = QdrantClient(url=qdrant_url, api_key=qdrant_key)
 
-    # Modèle Gemma
-    model_name = "google/gemma-3-1b-it"
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(model_name)
+    # LLM (Gemini)
+    llm = ChatGoogleGenerativeAI(
+        model="gemini-2.5-flash",
+        google_api_key=gemini_api_key,
+        temperature=0.7,
+    )
 
-    return embedding_model, qdrant, tokenizer, model
+    return embedding_model, qdrant, llm
 
 
-# ===================== III. BASE VECTORIELLE =====================
+# ===================== II. BASE VECTORIELLE =====================
 
 def init_db(qdrant: QdrantClient):
     """Créer ou réinitialiser la collection Qdrant."""
@@ -53,7 +47,7 @@ def init_db(qdrant: QdrantClient):
 
 
 def add_documents(qdrant: QdrantClient, embedding_model: SentenceTransformer, documents: List[dict]):
-    """Ajouter des documents à la base vectorielle."""
+    """Ajouter des documents (textes touristiques) à la base vectorielle."""
     points = []
     for i, doc in enumerate(documents):
         vector = embedding_model.encode(doc["text"]).tolist()
@@ -61,98 +55,72 @@ def add_documents(qdrant: QdrantClient, embedding_model: SentenceTransformer, do
     qdrant.upsert(collection_name=COLLECTION_NAME, points=points)
 
 
-# ===================== IV. RECHERCHE CONTEXTUELLE =====================
+# ===================== III. RECHERCHE CONTEXTUELLE =====================
 
-def retrieve_relevant_chunks(
+async def retrieve_relevant_chunks(
     qdrant: QdrantClient,
     embedding_model: SentenceTransformer,
     user_query: str,
     top_k: int = 5
 ) -> List[str]:
-    """Récupérer les documents pertinents."""
-    query_embedding = embedding_model.encode(user_query).tolist()
-    results = qdrant.search(
-        collection_name=COLLECTION_NAME,
-        query_vector=query_embedding,
-        limit=top_k,
-    )
-    if not results:
-        return ["Aucun document pertinent trouvé."]
-    return [p.payload["text"] for p in results]
+    """Recherche les passages les plus pertinents."""
+    try:
+        query_embedding = embedding_model.encode(user_query).tolist()
+        results = qdrant.search(collection_name=COLLECTION_NAME, query_vector=query_embedding, limit=top_k)
+        if not results:
+            return ["Aucun document pertinent trouvé."]
+        return [r.payload["text"] for r in results]
+    except Exception as e:
+        print(f"Erreur recherche : {e}")
+        return [f"Erreur : {e}"]
 
 
-# ===================== V. GÉNÉRATION DE RÉPONSE =====================
-
-def generate_answer(
-    tokenizer: AutoTokenizer,
-    model: AutoModelForCausalLM,
-    prompt: str,
-    max_tokens: int = 512
-) -> str:
-    """Générer une réponse avec le modèle de langage."""
-    inputs = tokenizer(prompt, return_tensors="pt", truncation=True, max_length=2048)
-    device = model.device
-    inputs = {k: v.to(device) for k, v in inputs.items()}
-
-    with torch.no_grad():
-        outputs = model.generate(
-            **inputs,
-            max_new_tokens=max_tokens,
-            temperature=0.7,
-            top_p=0.9,
-            do_sample=True,
-            pad_token_id=tokenizer.eos_token_id,
-        )
-
-    response = tokenizer.decode(outputs[0], skip_special_tokens=True)
-    if prompt in response:
-        response = response.split(prompt)[-1].strip()
-
-    return response
-
-
-# ===================== VI. AGENT TOURISTIQUE =====================
+# ===================== IV. AGENT TOURISTIQUE =====================
 
 @dataclass
 class TourismeAgent:
     qdrant: QdrantClient
     embedding_model: SentenceTransformer
-    tokenizer: AutoTokenizer
-    model: AutoModelForCausalLM
+    llm: ChatGoogleGenerativeAI
 
     system_prompt: str = (
         "Tu es un guide touristique virtuel expert du Burkina Faso. "
         "Tu aides les utilisateurs à découvrir les sites naturels, culturels et historiques du pays. "
-        "Réponds toujours en français clair et cite les sources quand elles sont disponibles."
+        "Réponds toujours en français clair, structuré et cite les sources quand elles sont disponibles."
     )
 
     async def answer(self, question: str) -> str:
-        """Générer une réponse complète à une question utilisateur."""
-        relevant_docs = retrieve_relevant_chunks(self.qdrant, self.embedding_model, question, top_k=3)
+        """Générer une réponse complète et contextuelle."""
+        relevant_docs = await retrieve_relevant_chunks(self.qdrant, self.embedding_model, question, top_k=3)
         context = "\n\n".join(relevant_docs)
 
-        prompt = f"""<start_of_turn>user
+        prompt = f"""
 {self.system_prompt}
 
 Contexte :
 {context}
 
-Question : {question}
-<end_of_turn>
-<start_of_turn>model
-Réponse : """
+Question :
+{question}
 
-        return generate_answer(self.tokenizer, self.model, prompt)
+Réponse :
+"""
+
+        try:
+            response = await asyncio.to_thread(self.llm.invoke, prompt)
+            return response.content
+        except Exception as e:
+            return f"Erreur génération de réponse : {e}"
 
 
-# ===================== VII. TEST LOCAL =====================
+# ===================== V. TEST LOCAL =====================
 
 if __name__ == "__main__":
     qdrant_url = os.getenv("QDRANT_URL")
     qdrant_key = os.getenv("QDRANT_KEY")
-    hf_token = os.getenv("H_TOKEN")
+    gemini_api_key = os.getenv("GEMINI_API_KEY")
 
-    embedding_model, qdrant, tokenizer, model = load_models(qdrant_url, qdrant_key, hf_token)
+    embedding_model, qdrant, llm = load_models(qdrant_url, qdrant_key, gemini_api_key)
 
     docs = [
         {"text": "La Cascade de Banfora est située à environ 12 km de la ville de Banfora, dans la région des Cascades."},
@@ -163,10 +131,11 @@ if __name__ == "__main__":
     init_db(qdrant)
     add_documents(qdrant, embedding_model, docs)
 
-    agent = TourismeAgent(qdrant, embedding_model, tokenizer, model)
+    agent = TourismeAgent(qdrant, embedding_model, llm)
 
     async def test_agent():
-        response = await agent.answer("Quels sites touristiques peut-on visiter à Banfora ?")
+        question = "Quels sites touristiques peut-on visiter à Banfora ?"
+        response = await agent.answer(question)
         print("\n=== RÉPONSE ===\n")
         print(response)
 
