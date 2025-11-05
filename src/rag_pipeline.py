@@ -34,6 +34,7 @@ login(token=H_TOKEN)
 
 # ===================== II. INITIALISATION DES MODÈLES =====================
 
+@st.cache_resource
 def load_models():
     """Charger les modèles une seule fois."""
     # Embeddings
@@ -48,9 +49,9 @@ def load_models():
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForCausalLM.from_pretrained(
         model_name, 
-        device_map="auto",
-        torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32,
-        low_cpu_mem_usage=True
+        #device_map="auto",
+        #torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32,
+        #low_cpu_mem_usage=True
     )
     
     return embedding_model, qdrant, tokenizer, model
