@@ -1,0 +1,41 @@
+{
+  "accuracy": 0.8,
+  "avg_time": 6.343280792236328,
+  "details": [
+    {
+      "question": "Où trouver le marché central de Ouagadougou ?",
+      "expected_answer": "Ouagadougou",
+      "response": "Le texte fourni ne contient pas d'informations sur l'emplacement précis du marché central de Ouagadougou.\n\nIl mentionne cependant que la maison d'hôtes est \"proche du centre ville\" et qu'elle est située dans le secteur 11, quartier Larlé, rue 1156, porte 323. Il est également fait référence à \"de nombreux marchés environnants\" que les hôtes peuvent indiquer, dont un \"magnifique marché de fruits, légumes, condiments\" situé à 3 minutes de la maison d'hôtes.\n\n**Source :** Description de la Maison d’hôtes NE Y WOONGO (burkinatourism.com)",
+      "correct": true,
+      "time": 5.608704090118408
+    },
+    {
+      "question": "Quelle ville est réputée pour sa mosquée soudanaise ?",
+      "expected_answer": "Bobo-Dioulasso",
+      "response": "La ville réputée pour sa mosquée soudanaise, un chef-d'œuvre d'architecture, est **Bobo-Dioulasso**.\n\nLa grande mosquée de Bobo-Dioulasso, construite en 1893, est explicitement décrite comme un \"chef d'œuvre d'architecture soudanaise\" dans le texte fourni.\n\n**Source :** Le texte fourni, qui semble provenir de burkinatourism.com (indiqué par les URLs des images).",
+      "correct": true,
+      "time": 2.6620118618011475
+    },
+    {
+      "question": "Quels sites historiques peut-on visiter à Gaoua ?",
+      "expected_answer": "Musée des Civilisations",
+      "response": "À Gaoua, vous pouvez visiter un site historique et culturel majeur :\n\n1.  **Le Musée des Civilisations du Sud-Ouest** :\n    *   **Description** : Situé sur la \"colline du pouvoir\" de Gaoua, à côté du gouvernorat, ce musée est un conservatoire ethnographique dédié à la richesse des civilisations du Sud-Ouest, et plus particulièrement à la découverte du peuple Lobi. Il est aménagé dans un bâtiment de type colonial.\n    *   **Contenu** : Il abrite des locaux administratifs, des réserves, et surtout des salles d'exposition consacrées à l'histoire, aux arts et aux traditions des peuples de la région. Vous y trouverez également un échantillon de l'habitat traditionnel du peuple Lobi.\n    *   **Histoire** : Ce musée a vu le jour grâce à l'engagement passionné de Mlle Madeleine Père, assistante sociale à Gaoua depuis 1964, docteur en ethnologie et auteure d'une thèse d'état sur les Lobi.\n\nLe texte mentionne également les **ruines du Lobi** comme des sites archéologiques importants, citées dans le même contexte que Gaoua pour leur signification historique et préhistorique. Bien que le texte ne précise pas leur localisation exacte par rapport à la ville de Gaoua, il est clair que Gaoua, avec son musée, est un point central pour l'étude et la compréhension de ces vestiges et de la civilisation Lobi.\n\n**Sources** : Textes fournis (contexte).",
+      "correct": true,
+      "time": 9.72152590751648
+    },
+    {
+      "question": "Quel festival attire les visiteurs internationaux ?",
+      "expected_answer": "FESPACO",
+      "response": "Bonjour ! En tant que votre guide touristique virtuel expert du Burkina Faso, je peux vous confirmer que plusieurs festivals et événements majeurs du pays attirent un public international, comme le texte fourni le met en évidence.\n\nVoici les principaux festivals et salons qui attirent des visiteurs internationaux, selon les informations disponibles :\n\n1.  **Le festival dont l'édition de 2003 est décrite** :\n    *   Bien que le nom spécifique de ce festival ne soit pas explicitement mentionné pour l'édition de 2003, le texte indique clairement une forte participation internationale. Il est précisé que cette édition a vu la participation d'artistes étrangers tels que :\n        *   Les ballets Djoliba de Guinée\n        *   Le Gnawa Sid Mimoun du Maroc\n        *   Les Masques Dogons de Sangha (Mali)\n        *   L’Orchestre Kanaga de Mopti (Mali)\n        *   Neil Oliver du Bénin\n    *   Cette liste d'artistes de pays voisins et d'Afrique du Nord atteste d'une portée internationale significative.\n\n2.  **Le FESPACO (Festival Panafricain du Cinéma et de la Télévision de Ouagadougou)** :\n    *   Organisé tous les deux ans depuis la fin des années soixante, le FESPACO est, comme son nom l'indique (\"Panafricain\"), un événement de grande envergure continentale qui attire des cinéastes, professionnels du cinéma et cinéphiles du monde entier, particulièrement d'Afrique.\n\n3.  **Le SIAO (Salon International de l’Artisanat de Ouagadougou)** :\n    *   Créé au début des années quatre-vingt, le SIAO est explicitement désigné comme un \"Salon International\". Cela signifie qu'il est conçu pour accueillir des artisans, acheteurs et visiteurs de divers pays, mettant en valeur l'artisanat africain et mondial.\n\n4.  **La FILO (Foire Internationale du Livre de Ouagadougou)** :\n    *   Comme le SIAO, son nom \"Internationale\" indique clairement qu'elle est une plateforme d'échange et de rencontre pour les auteurs, éditeurs et lecteurs au-delà des frontières du Burkina Faso.\n\n5.  **Les Nuits Atypiques de Koudougou (NAK)** :\n    *   Ce festival, créé en 1996, est présenté comme un \"cadre international de rencontres et de partages de toutes les formes d’expressions artistiques et culturelles\".\n    *   Il a pour mission d'être \"un trait d’union entre tous les peuples du monde\" et chaque édition vise à représenter \"un plus grand nombre de pays et de régions\".\n    *   Son soutien par des festivals comme le \"festival Mundial\" de Tilburg (Hollande) et les \"Nuits Atypiques de Langon\" (France) souligne également sa reconnaissance et son attrait international.\n\nCes événements sont des piliers de la richesse culturelle du Burkina Faso et contribuent grandement à son rayonnement international.\n\n**Source :** Texte fourni.",
+      "correct": true,
+      "time": 10.377084016799927
+    },
+    {
+      "question": "Quel artisanat traditionnel est vendu à Ouagadougou ?",
+      "expected_answer": "Tissus et sculptures",
+      "response": "À Ouagadougou, vous pouvez trouver une riche variété d'artisanat traditionnel. Le texte mentionne spécifiquement :\n\n*   **Les bronzes**\n*   **Les batiks**\n\nCes exemples illustrent la diversité de l'artisanat local. Le **Village Artisanal de Ouagadougou**, situé à côté du SIAO (Salon International de l'Artisanat de Ouagadougou), est un lieu central qui rassemble plus de 500 artisans répartis dans 25 métiers différents, offrant ainsi un large éventail de l'artisanat burkinabé.\n\n**Source :** Texte fourni (informations sur le Village Artisanal de Ouagadougou et la Maison d'hôtes NE Y WOONGO).",
+      "correct": false,
+      "time": 3.3470780849456787
+    }
+  ]
+}

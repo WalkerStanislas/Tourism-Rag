@@ -68,9 +68,9 @@ streamlit run frontend/app.py
 
 | Critère                  | Description                              | Résultat    |
 |--------------------------|------------------------------------------|-------------|
-| Précision Retrieval      | % de documents pertinents retrouvés      | 85%         |
-| Pertinence Réponse       | Note moyenne (0–5) sur 20 questions      | 4.4 / 5     |
-| Temps de réponse moyen   | en secondes                              | 2.8 s       |
+| Précision Retrieval      | % de documents pertinents retrouvés      | 80%         |
+| Pertinence Réponse       | Note moyenne (0–5) sur 5 questions       | 4.4 / 5     |
+| Temps de réponse moyen   | en secondes                              | 7 s         |
 
 ---
 

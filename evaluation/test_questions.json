@@ -1,0 +1,7 @@
+[
+    {"question": "Où trouver le marché central de Ouagadougou ?", "expected_answer": "Ouagadougou"},
+    {"question": "Quelle ville est réputée pour sa mosquée soudanaise ?", "expected_answer": "Bobo-Dioulasso"},
+    {"question": "Quels sites historiques peut-on visiter à Gaoua ?", "expected_answer": "Musée des Civilisations"},
+    {"question": "Quel festival attire les visiteurs internationaux ?", "expected_answer": "FESPACO"},
+    {"question": "Quel artisanat traditionnel est vendu à Ouagadougou ?", "expected_answer": "Tissus et sculptures"}
+]
