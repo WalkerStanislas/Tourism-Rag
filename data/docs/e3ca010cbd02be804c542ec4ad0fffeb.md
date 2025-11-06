@@ -1,0 +1,155 @@
+# Source: https://www.burkinatourism.com/Hotel-Burkina-Campement-Yentangou.html
+
+  * | [Se connecter](https://www.burkinatourism.com/spip.php?page=login&url=Hotel-Burkina-Campement-Yentangou.html)
+  * Call BF: 00226 78199189
+
+
+  * [Gastronomie](http://www.burkinatourism.com/spip.php?rubrique55)
+  * [Histoire](http://www.burkinatourism.com/spip.php?rubrique57)
+  * [les mines au Burkina](http://www.burkinatourism.com/spip.php?rubrique56)
+  * [Conseils](http://www.burkinatourism.com/spip.php?rubrique65)
+
+
+**[![](https://www.burkinatourism.com/local/cache-vignettes/L265xH94/siteon0-b9b71.png?1751749152)](http://www.burkinatourism.com/ "Accueil")**
+  * [Accueil](http://www.burkinatourism.com/)
+  * [EVENEMENT](https://www.burkinatourism.com/Hotel-Burkina-Campement-Yentangou.html)
+    * [ FESPACO ](http://www.burkinatourism.com/spip.php?rubrique4)
+    * [SIAO](http://www.burkinatourism.com/spip.php?rubrique5)
+    * [SNC](http://www.burkinatourism.com/spip.php?rubrique6)
+    * [Jazz à Ouaga](http://www.burkinatourism.com/spip.php?rubrique7)
+    * [FITMO](http://www.burkinatourism.com/spip.php?rubrique8)
+    * [NAK](http://www.burkinatourism.com/spip.php?rubrique9)
+    * [FITD](http://www.burkinatourism.com/spip.php?rubrique10)
+    * [KUNDE](http://www.burkinatourism.com/spip.php?rubrique11)
+    * [ Autre Evènements](http://www.burkinatourism.com/spip.php?rubrique12)
+  * [Sites touristiques](https://www.burkinatourism.com/Hotel-Burkina-Campement-Yentangou.html)
+    * [Region Du Centre ](http://www.burkinatourism.com/spip.php?rubrique14)
+    * [Region De L'Ouest ](http://www.burkinatourism.com/spip.php?rubrique15)
+    * [Region De L'Est ](http://www.burkinatourism.com/spip.php?rubrique16)
+    * [Region De Sahel Burkinabè](http://www.burkinatourism.com/spip.php?rubrique17)
+    * [Autre Sites touristiques](http://www.burkinatourism.com/spip.php?rubrique68)
+  * [Les hotels](https://www.burkinatourism.com/Hotel-Burkina-Campement-Yentangou.html)
+    * [Ouagadougou](http://www.burkinatourism.com/spip.php?rubrique20)
+    * [Bobo dioulasso](http://www.burkinatourism.com/spip.php?rubrique21)
+    * [Koudougou](http://www.burkinatourism.com/spip.php?rubrique22)
+    * [Ouahigouya](http://www.burkinatourism.com/spip.php?rubrique23)
+    * [Banfora](http://www.burkinatourism.com/spip.php?rubrique24)
+    * [PAMA](http://www.burkinatourism.com/spip.php?rubrique25)
+    * [Les Autre villes](http://www.burkinatourism.com/spip.php?rubrique26)
+  * [Arts et Culture ](http://www.burkinatourism.com/spip.php?rubrique27)
+    * [Exportateurs d’objets d’arts](http://www.burkinatourism.com/spip.php?rubrique53)
+    * [Restaurants Galeries d’arts](http://www.burkinatourism.com/spip.php?rubrique54)
+  * [Sorties](https://www.burkinatourism.com/Hotel-Burkina-Campement-Yentangou.html)
+    * [Maquis Et Boîtes de Nuit](http://www.burkinatourism.com/spip.php?rubrique29)
+    * [Cinémas](http://www.burkinatourism.com/spip.php?rubrique30)
+    * [CAFE](http://www.burkinatourism.com/spip.php?rubrique31)
+  * [Les restaurants](https://www.burkinatourism.com/Hotel-Burkina-Campement-Yentangou.html)
+    * [Ouagadougou](http://www.burkinatourism.com/spip.php?rubrique33)
+    * [Bobo dioulasso](http://www.burkinatourism.com/spip.php?rubrique34)
+    * [Koudougou](http://www.burkinatourism.com/spip.php?rubrique35)
+    * [Ouahigouya](http://www.burkinatourism.com/spip.php?rubrique36)
+    * [Banfora](http://www.burkinatourism.com/spip.php?rubrique37)
+    * [PAMA](http://www.burkinatourism.com/spip.php?rubrique38)
+    * [Les Autre villes](http://www.burkinatourism.com/spip.php?rubrique39)
+  * [Location Auto](https://www.burkinatourism.com/Hotel-Burkina-Campement-Yentangou.html)
+    * [VEHICULES](http://www.burkinatourism.com/spip.php?rubrique41)
+    * [MOTO](http://www.burkinatourism.com/spip.php?rubrique42)
+    * [TAXI](http://www.burkinatourism.com/spip.php?rubrique43)
+    * [BUS](http://www.burkinatourism.com/spip.php?rubrique44)
+  * [gallery](http://www.burkinatourism.com/spip.php?rubrique45)
+  * [Guide](https://www.burkinatourism.com/Hotel-Burkina-Campement-Yentangou.html)
+    * [les auberges](http://www.burkinatourism.com/spip.php?rubrique47)
+    * [Les Ambassades](http://www.burkinatourism.com/spip.php?rubrique48)
+    * [carte du burkina](http://www.worldmapfinder.com/GoogleMaps/Fr_Africa_Burkina-Faso.html)
+    * [Les Horaires De Vole](https://www.burkinatourism.com/leshorairesdevoleauburkina.php)
+    * [Distance De Ville A Ville](http://www.burkinatourism.com/spip.php?rubrique51)
+  * [Contact](https://www.burkinatourism.com/spip.php?page=contact)
+
+
+[ ![](https://www.burkinatourism.com/IMG/logo/arton148.jpg?1587715932) ![++](https://www.burkinatourism.com/squelettes/img/agrandir.png) ](https://www.burkinatourism.com/IMG/logo/arton148.jpg?1587715932)
+Dans la même rubrique
+[Le Campement de Thialy ](https://www.burkinatourism.com/Le-Campement-de-Thialy.html)  
+
+[Hôtel de la Kompienga ](https://www.burkinatourism.com/Hotel-de-la-Kompienga.html)  
+
+[Hôtel Burkina Pêche ](https://www.burkinatourism.com/Hotel-Burkina-Peche.html)  
+
+[Campement de « L’ile Tagou » Burkina Safari Club ](https://www.burkinatourism.com/Campement-de-L-ile-Tagou-Burkina-Safari-Club.html)  
+
+[Hôtel Burkina - Campement Yentangou ](https://www.burkinatourism.com/Hotel-Burkina-Campement-Yentangou.html)  
+
+facebook
+  
+[Burkinatourism](http://www.burkinatoutism.com)
+meteo
+[Meteo](http://www.tameteo.com/) Ouagadougou
+[Accueil](http://www.burkinatourism.com/) > [Les hotels](https://www.burkinatourism.com/-Les-hotels-.html) > [PAMA](https://www.burkinatourism.com/-PAMA-.html) > **Hôtel Burkina - Campement Yentangou**
+## **Hôtel Burkina - Campement Yentangou**
+S/C Namoungou Safari - BP 05 Fada N’Gourma
+![](https://www.burkinatourism.com/local/cache-vignettes/L500xH465/hotel1_transparent_-6-4c1e6.png?1751773916)
+10 ch. - bar - restaurant-  
+tél : (226) 40 77 01 45  
+fax : (226) 40 77 03 14  
+tél. campement : (226) 70 20 71 03  
+contact France : (33) 6 23 31 64 39
+  
+
+  * [![facebook](https://www.burkinatourism.com/Hotel-Burkina-Campement-Yentangou.html)](http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.burkinatourism.com%2FHotel-Burkina-Campement-Yentangou.html&t=H%C3%B4tel%20Burkina%20-%20Campement%20Yentangou "Facebook")
+  * [![linkedin](https://www.burkinatourism.com/Hotel-Burkina-Campement-Yentangou.html)](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.burkinatourism.com%2FHotel-Burkina-Campement-Yentangou.html&title=H%C3%B4tel%20Burkina%20-%20Campement%20Yentangou&source=https%3A%2F%2Fwww.burkinatourism.com%2FHotel-Burkina-Campement-Yentangou.html_site&summary=Le%20site%20de%20tourisme%20le%20plus%20visites%20au%20Burkina%20Faso.%20Retrouvez%20sur%20ce%20site%20toutes%20les%20informations%20pratiques%2Cculturel%20et%20touristiques%20pour%20votre%20s%C3%A9jour%20au%20Burkina%20Faso "LinkedIn")
+  * [![tumblr](https://www.burkinatourism.com/Hotel-Burkina-Campement-Yentangou.html)](http://www.tumblr.com/share?v=3&u=https%3A%2F%2Fwww.burkinatourism.com%2FHotel-Burkina-Campement-Yentangou.html&t=H%C3%B4tel%20Burkina%20-%20Campement%20Yentangou&s= "Tumblr")
+  * [![twitter](https://www.burkinatourism.com/Hotel-Burkina-Campement-Yentangou.html)](http://twitter.com/intent/tweet?text=H%C3%B4tel%20Burkina%20-%20Campement%20Yentangou&url=https%3A%2F%2Fwww.burkinatourism.com%2FHotel-Burkina-Campement-Yentangou.html "X")
+
+
+Tags [Burkina Faso ](https://www.burkinatourism.com/+-Burkina-Faso-+.html)[Découverte ](https://www.burkinatourism.com/+-Decouverte-+.html)[Dormir ](https://www.burkinatourism.com/+-Dormir-+.html)[Hotel ](https://www.burkinatourism.com/+-Hotel-+.html)[Pama ](https://www.burkinatourism.com/+-Pama-19-+.html)
+[](https://www.burkinatourism.com/Hotel-Burkina-Campement-Yentangou.html#forum)
+### Un message, un commentaire ?
+modération a priori
+Ce forum est modéré a priori : votre contribution n’apparaîtra qu’après avoir été validée par les responsables.
+Qui êtes-vous ?
+Votre nom [Se connecter](https://www.burkinatourism.com/spip.php?page=login&url=Hotel-Burkina-Campement-Yentangou.html)
+Votre adresse email
+Votre message
+Tags : Mot tourisme 
+  * Aventure 
+  * Burkina Faso 
+  * Culture 
+  * Découverte 
+  * Images 
+  * Sites Touristiques 
+  * Tourisme 
+  * Vidéo 
+
+Tags : News 
+  * Actualité 
+
+Tags : Hotel au Burkina Faso 
+  * Banfora 
+  * Bobo Dioulasso 
+  * Dormir 
+  * Hotel 
+  * Koudougou 
+  * Les autres villes 
+  * Ouagadougou 
+  * Ouahigouya 
+  * Pama 
+
+Tags : Les restaurants 
+  * Manger 
+  * Pas chers 
+  * Recettes 
+  * Restaurants 
+  * Sortir 
+
+
+Titre (obligatoire)
+Texte de votre message (obligatoire)
+Pour créer des paragraphes, laissez simplement des lignes vides.
+Veuillez laisser ce champ vide :
+### Nos Partenaires
+  * [![](https://www.burkinatourism.com/squelettes/img/partner01.png)](http://www.fasobay.com)
+  * [![](https://www.burkinatourism.com/squelettes/img/partner02.png)](http://www.legerstic.net/)
+
+
+2012-2025 **Burkinatourisme**   
+[Se connecter](https://www.burkinatourism.com/spip.php?page=login&url=Hotel-Burkina-Campement-Yentangou.html) | [Contact](https://www.burkinatourism.com/spip.php?page=contact)
+[![RSS 2.0](https://www.burkinatourism.com/squelettes/img/rss.png)](https://www.burkinatourism.com/spip.php?page=backend "Syndiquer tout le site") [![twitter](https://www.burkinatourism.com/squelettes/img/twitter.png)](https://twitter.com/burkinatourism "twitter") ![google](https://www.burkinatourism.com/squelettes/img/google.png) [![facebook](https://www.burkinatourism.com/squelettes/img/facebook.png)](https://www.facebook.com/Burkinatourism "facebook") [![youtube](https://www.burkinatourism.com/squelettes/img/youtube.png)](https://www.youtube.com/channel/UCC-frrfpm0kIAr6GdfH1kvw "youtube")

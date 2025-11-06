@@ -1,0 +1,170 @@
+# Source: https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html
+
+  * | [Se connecter](https://www.burkinatourism.com/spip.php?page=login&url=Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html)
+  * Call BF: 00226 78199189
+
+
+  * [Gastronomie](http://www.burkinatourism.com/spip.php?rubrique55)
+  * [Histoire](http://www.burkinatourism.com/spip.php?rubrique57)
+  * [les mines au Burkina](http://www.burkinatourism.com/spip.php?rubrique56)
+  * [Conseils](http://www.burkinatourism.com/spip.php?rubrique65)
+
+
+**[![](https://www.burkinatourism.com/local/cache-vignettes/L265xH94/siteon0-b9b71.png?1751749152)](http://www.burkinatourism.com/ "Accueil")**
+  * [Accueil](http://www.burkinatourism.com/)
+  * [EVENEMENT](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html)
+    * [ FESPACO ](http://www.burkinatourism.com/spip.php?rubrique4)
+    * [SIAO](http://www.burkinatourism.com/spip.php?rubrique5)
+    * [SNC](http://www.burkinatourism.com/spip.php?rubrique6)
+    * [Jazz à Ouaga](http://www.burkinatourism.com/spip.php?rubrique7)
+    * [FITMO](http://www.burkinatourism.com/spip.php?rubrique8)
+    * [NAK](http://www.burkinatourism.com/spip.php?rubrique9)
+    * [FITD](http://www.burkinatourism.com/spip.php?rubrique10)
+    * [KUNDE](http://www.burkinatourism.com/spip.php?rubrique11)
+    * [ Autre Evènements](http://www.burkinatourism.com/spip.php?rubrique12)
+  * [Sites touristiques](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html)
+    * [Region Du Centre ](http://www.burkinatourism.com/spip.php?rubrique14)
+    * [Region De L'Ouest ](http://www.burkinatourism.com/spip.php?rubrique15)
+    * [Region De L'Est ](http://www.burkinatourism.com/spip.php?rubrique16)
+    * [Region De Sahel Burkinabè](http://www.burkinatourism.com/spip.php?rubrique17)
+    * [Autre Sites touristiques](http://www.burkinatourism.com/spip.php?rubrique68)
+  * [Les hotels](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html)
+    * [Ouagadougou](http://www.burkinatourism.com/spip.php?rubrique20)
+    * [Bobo dioulasso](http://www.burkinatourism.com/spip.php?rubrique21)
+    * [Koudougou](http://www.burkinatourism.com/spip.php?rubrique22)
+    * [Ouahigouya](http://www.burkinatourism.com/spip.php?rubrique23)
+    * [Banfora](http://www.burkinatourism.com/spip.php?rubrique24)
+    * [PAMA](http://www.burkinatourism.com/spip.php?rubrique25)
+    * [Les Autre villes](http://www.burkinatourism.com/spip.php?rubrique26)
+  * [Arts et Culture ](http://www.burkinatourism.com/spip.php?rubrique27)
+    * [Exportateurs d’objets d’arts](http://www.burkinatourism.com/spip.php?rubrique53)
+    * [Restaurants Galeries d’arts](http://www.burkinatourism.com/spip.php?rubrique54)
+  * [Sorties](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html)
+    * [Maquis Et Boîtes de Nuit](http://www.burkinatourism.com/spip.php?rubrique29)
+    * [Cinémas](http://www.burkinatourism.com/spip.php?rubrique30)
+    * [CAFE](http://www.burkinatourism.com/spip.php?rubrique31)
+  * [Les restaurants](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html)
+    * [Ouagadougou](http://www.burkinatourism.com/spip.php?rubrique33)
+    * [Bobo dioulasso](http://www.burkinatourism.com/spip.php?rubrique34)
+    * [Koudougou](http://www.burkinatourism.com/spip.php?rubrique35)
+    * [Ouahigouya](http://www.burkinatourism.com/spip.php?rubrique36)
+    * [Banfora](http://www.burkinatourism.com/spip.php?rubrique37)
+    * [PAMA](http://www.burkinatourism.com/spip.php?rubrique38)
+    * [Les Autre villes](http://www.burkinatourism.com/spip.php?rubrique39)
+  * [Location Auto](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html)
+    * [VEHICULES](http://www.burkinatourism.com/spip.php?rubrique41)
+    * [MOTO](http://www.burkinatourism.com/spip.php?rubrique42)
+    * [TAXI](http://www.burkinatourism.com/spip.php?rubrique43)
+    * [BUS](http://www.burkinatourism.com/spip.php?rubrique44)
+  * [gallery](http://www.burkinatourism.com/spip.php?rubrique45)
+  * [Guide](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html)
+    * [les auberges](http://www.burkinatourism.com/spip.php?rubrique47)
+    * [Les Ambassades](http://www.burkinatourism.com/spip.php?rubrique48)
+    * [carte du burkina](http://www.worldmapfinder.com/GoogleMaps/Fr_Africa_Burkina-Faso.html)
+    * [Les Horaires De Vole](https://www.burkinatourism.com/leshorairesdevoleauburkina.php)
+    * [Distance De Ville A Ville](http://www.burkinatourism.com/spip.php?rubrique51)
+  * [Contact](https://www.burkinatourism.com/spip.php?page=contact)
+
+
+[ ![](https://www.burkinatourism.com/IMG/logo/arton826.jpg?1634192718) ![++](https://www.burkinatourism.com/squelettes/img/agrandir.png) ](https://www.burkinatourism.com/IMG/logo/arton826.jpg?1634192718)
+Dans la même rubrique
+[Disparition de l’artiste Madou Djan : le message de la ministre de la Culture, des Àrts et du Tourisme ](https://www.burkinatourism.com/Disparition-de-l-artiste-Madou-Djan-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html)  
+
+[Mois de l’histoire des Noirs : un appel à honorer la mémoire des valeureux devanciers ](https://www.burkinatourism.com/Mois-de-l-histoire-des-Noirs-un-appel-a-honorer-la-memoire-des-valeureux-devanciers.html)  
+
+[8 Mars 2021 : le message de la ministre de la Culture, des Arts et du Tourisme ](https://www.burkinatourism.com/8-Mars-2021-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html)  
+
+[Disparition de Maman Zidouemba : le message de compassion de la ministre de la Culture, des Arts et du Tourisme ](https://www.burkinatourism.com/Disparition-de-Maman-Zidouemba-le-message-de-compassion-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html)  
+
+[Disparition de Marie Soleil FRERE : le message de compassion de madame la ministre de la Culture, des Arts et du Tourisme ](https://www.burkinatourism.com/Disparition-de-Marie-Soleil-FRERE-le-message-de-compassion-de-madame-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html)  
+
+  * 1
+  * [2](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html?debut_articles_rubrique=5#pagination_articles_rubrique)
+  * [3](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html?debut_articles_rubrique=10#pagination_articles_rubrique)
+  * [4](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html?debut_articles_rubrique=15#pagination_articles_rubrique)
+  * [5](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html?debut_articles_rubrique=20#pagination_articles_rubrique)
+  * [6](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html?debut_articles_rubrique=25#pagination_articles_rubrique)
+  * [7](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html?debut_articles_rubrique=30#pagination_articles_rubrique)
+  * [8](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html?debut_articles_rubrique=35#pagination_articles_rubrique)
+  * [9](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html?debut_articles_rubrique=40#pagination_articles_rubrique)
+  * …
+  * [14](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html?debut_articles_rubrique=65#pagination_articles_rubrique)
+
+
+facebook
+  
+[Burkinatourism](http://www.burkinatoutism.com)
+meteo
+[Meteo](http://www.tameteo.com/) Ouagadougou
+[Accueil](http://www.burkinatourism.com/) > [EVENEMENT](https://www.burkinatourism.com/-EVENEMENT-.html) > **Fête du Travail : le message de la ministre de la Culture, des Arts et du (…)**
+## **Fête du Travail : le message de la ministre de la Culture, des Arts et du Tourisme**
+[ ![](https://www.burkinatourism.com/local/cache-vignettes/L516xH774/168821418_1447643798916212_5723433831477994450_n-7-a941f.jpg?1751758513)](https://www.burkinatourism.com/IMG/jpg/168821418_1447643798916212_5723433831477994450_n-7.jpg)
+La communauté des travailleurs observe une halte, ce 1er mai 2021, pour célébrer la journée internationale du travail.  
+C’est l’occasion pour moi de témoigner mon admiration et mon affection à l’ensemble des travailleurs de mon pays et à ceux du monde entier.  
+J’ai une pensée particulière pour toutes celles et tous ceux qui créent de la richesse dans les secteurs de la Culture, des Arts et du Tourisme. Je leur rend un vibrant hommage.
+Je n’oublie pas mes collaborateurs qui œuvrent au quotidien, dans des conditions parfois difficiles, pour l’atteinte de nos objectifs.  
+La commémoration de cette journée a lieu, cette année, dans un contexte éprouvant, grippé par une double crise sécuritaire et sanitaire, avec son corollaire de chômeurs, qui rappelle le souvenir des luttes héroïques de nos illustres devanciers.
+Ce contexte nous oblige donc à la réflexion, en même temps qu’il nous impose une unité et synergie d’actions pour bâtir les bases d’une société juste, redistributive des fruits de la croissance.
+Je réaffirme ma disponibilité à œuvrer pour l’instauration d’un cadre propice, tel le vote de la loi d’orientation sur le tourisme, à l’épanouissement de mes collaborateurs, à la créativité et à la productivité des acteurs culturels et touristiques pour un rayonnement international du Burkina Faso.  
+Bonne fête du Travail à toutes et à tous !
+Dr Élise Foniyama ILBOUDO/THIOMBIANO
+  
+
+  * [![facebook](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html)](http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.burkinatourism.com%2FFete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html&t=F%C3%AAte%20du%20Travail%20%3A%20le%20message%20de%20la%20ministre%20de%20la%20Culture%2C%20\(%E2%80%A6\) "Facebook")
+  * [![linkedin](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html)](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.burkinatourism.com%2FFete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html&title=F%C3%AAte%20du%20Travail%20%3A%20le%20message%20de%20la%20ministre%20de%20la%20Culture%2C%20\(%E2%80%A6\)&source=https%3A%2F%2Fwww.burkinatourism.com%2FFete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html_site&summary=Le%20site%20de%20tourisme%20le%20plus%20visites%20au%20Burkina%20Faso.%20Retrouvez%20sur%20ce%20site%20toutes%20les%20informations%20pratiques%2Cculturel%20et%20touristiques%20pour%20votre%20s%C3%A9jour%20au%20Burkina%20Faso "LinkedIn")
+  * [![tumblr](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html)](http://www.tumblr.com/share?v=3&u=https%3A%2F%2Fwww.burkinatourism.com%2FFete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html&t=F%C3%AAte%20du%20Travail%20%3A%20le%20message%20de%20la%20ministre%20de%20la%20Culture%2C%20\(%E2%80%A6\)&s= "Tumblr")
+  * [![twitter](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html)](http://twitter.com/intent/tweet?text=F%C3%AAte%20du%20Travail%20%3A%20le%20message%20de%20la%20ministre%20de%20la%20Culture%2C%20\(%E2%80%A6\)&url=https%3A%2F%2Fwww.burkinatourism.com%2FFete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html "X")
+
+
+[](https://www.burkinatourism.com/Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html#forum)
+### Un message, un commentaire ?
+modération a priori
+Ce forum est modéré a priori : votre contribution n’apparaîtra qu’après avoir été validée par les responsables.
+Qui êtes-vous ?
+Votre nom [Se connecter](https://www.burkinatourism.com/spip.php?page=login&url=Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html)
+Votre adresse email
+Votre message
+Tags : Mot tourisme 
+  * Aventure 
+  * Burkina Faso 
+  * Culture 
+  * Découverte 
+  * Images 
+  * Sites Touristiques 
+  * Tourisme 
+  * Vidéo 
+
+Tags : News 
+  * Actualité 
+
+Tags : Hotel au Burkina Faso 
+  * Banfora 
+  * Bobo Dioulasso 
+  * Dormir 
+  * Hotel 
+  * Koudougou 
+  * Les autres villes 
+  * Ouagadougou 
+  * Ouahigouya 
+  * Pama 
+
+Tags : Les restaurants 
+  * Manger 
+  * Pas chers 
+  * Recettes 
+  * Restaurants 
+  * Sortir 
+
+
+Titre (obligatoire)
+Texte de votre message (obligatoire)
+Pour créer des paragraphes, laissez simplement des lignes vides.
+Veuillez laisser ce champ vide :
+### Nos Partenaires
+  * [![](https://www.burkinatourism.com/squelettes/img/partner01.png)](http://www.fasobay.com)
+  * [![](https://www.burkinatourism.com/squelettes/img/partner02.png)](http://www.legerstic.net/)
+
+
+2012-2025 **Burkinatourisme**   
+[Se connecter](https://www.burkinatourism.com/spip.php?page=login&url=Fete-du-Travail-le-message-de-la-ministre-de-la-Culture-des-Arts-et-du-Tourisme.html) | [Contact](https://www.burkinatourism.com/spip.php?page=contact)
+[![RSS 2.0](https://www.burkinatourism.com/squelettes/img/rss.png)](https://www.burkinatourism.com/spip.php?page=backend "Syndiquer tout le site") [![twitter](https://www.burkinatourism.com/squelettes/img/twitter.png)](https://twitter.com/burkinatourism "twitter") ![google](https://www.burkinatourism.com/squelettes/img/google.png) [![facebook](https://www.burkinatourism.com/squelettes/img/facebook.png)](https://www.facebook.com/Burkinatourism "facebook") [![youtube](https://www.burkinatourism.com/squelettes/img/youtube.png)](https://www.youtube.com/channel/UCC-frrfpm0kIAr6GdfH1kvw "youtube")
